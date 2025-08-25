@@ -1,0 +1,7 @@
+site_name: 'vxrail-api'
+site_description: 'vxrail-api Documentation.'
+docs_dir: docs
+plugins:
+  - techdocs-core
+theme:
+  name: material

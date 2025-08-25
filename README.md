@@ -1,5 +1,14 @@
 <!--
+
   Copyright (c) 2015 Dell Inc. or its subsidiaries. All Rights Reserved.
+[![GitHub Contributors](https://dell-shield-io.cec.delllabs.net/github/contributors/vxrail/vxrail-api.svg?style=flat-square)](https://eos2git.cec.lab.emc.com/vxrail/vxrail-api/graphs/contributors)
+[![GitHub stars](https://dell-shield-io.cec.delllabs.net/github/stars/vxrail/vxrail-api.svg?style=flat-square&label=github%20stars)](https://eos2git.cec.lab.emc.com/vxrail/vxrail-api)
+[![Contribute](https://www.eclipse.org/che/contribute.svg)](https://devspaces.cec.delllabs.net/#https://eos2git.cec.lab.emc.com/vxrail/vxrail-api)
+[![DRP checkers](https://eos2git.cec.lab.emc.com/vxrail/vxrail-api/actions/workflows/drp.yml/badge.svg)](https://eos2git.cec.lab.emc.com/vxrail/vxrail-api/actions/workflows/drp.yml)
+[![Innersource Linters](https://eos2git.cec.lab.emc.com/vxrail/vxrail-api/actions/workflows/linters.yml/badge.svg)](https://eos2git.cec.lab.emc.com/vxrail/vxrail-api/actions/workflows/linters.yml)
+[![Nexus](https://dell-shield-io.cec.delllabs.net/badge/powered_by-Nexus-blue)](https://isgdev.lab.dell.com/catalog/default/component/vxrail-api)
+
+[![Copier](https://dell-shield-io.cec.delllabs.net/endpoint?url=https://raw.githubusercontent.com/copier-org/copier/master/img/badge/badge-grayscale-inverted-border-orange.json)](https://github.com/copier-org/copier)
  
   This software contains the intellectual property of Dell Inc. or is licensed to Dell Inc. from third parties.
   Use of this software and the intellectual property contained therein is expressly limited to the terms and 
@@ -39,4 +48,3 @@ The modules are written in such a way that all requests are idempotent and hence
 - Get-SystemInfo -version V3
 
    - Get-SystemInfo - Server {VxM_ip} - Username {VxM-account} - Password {password} -Version V3
-
